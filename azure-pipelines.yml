@@ -15,7 +15,7 @@ variables:
   webAppName: 'my-ecbr'
 
   # Environment name
-  environmentName: 'my-ecbr'
+  environmentName: 'poc'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
